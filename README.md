@@ -1,3 +1,5 @@
+![Overview](overview.png)
+
 # Probability Course Project
 
 This repository contains solutions to probability and statistics course assignments.
